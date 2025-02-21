@@ -1,0 +1,4 @@
+.venv/
+static/
+templates/
+.env    # This file is used to store environment variables
